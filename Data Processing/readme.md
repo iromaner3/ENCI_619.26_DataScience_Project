@@ -5,7 +5,7 @@ This stage involved cleaning and transforming raw datasets into a format for mac
 All of the data sources used in this phase:
 
 <ul>
-  <li>Data Source 1</li>
+  <li><b>Crash Data:</b>data obtained from Public Safety Data Portal of the Toronto Police Service</li>
 </ul>
 
 
